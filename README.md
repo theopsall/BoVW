@@ -15,7 +15,7 @@ git clone git@github.com:theopsall/BoVW.git
 ## Usage
 
 ```python
-from  import 
+from BoVW import bovw
 
 
 ```
